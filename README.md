@@ -8,9 +8,8 @@ I am a passionate Software engineer, driven by a curiosity for technology and a 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cpp,supabase,vscode,windows,postgres,python,nodejs,npm,pnpm,mysql,github,express,flask,git)](https://skillicons.dev)
 
-## 🌱 Currently exploring
-
-- 🚀 Neural ntworks
+- 🌱 Currently learning Neural networks
+- 👯 I’m also available to collaborate on open source projects
 
 ## 📬 Get in Touch
 
