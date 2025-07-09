@@ -13,7 +13,7 @@ I am a passionate Software engineer, driven by a curiosity for technology and a 
 
 ## 📬 Get in Touch
 
-- Connect with me on [X](https://https://x.com/NwaAmadi_)
+- Connect with me on [X](https://x.com/NwaAmadi_?t=xL8fU1wobZFuuuIdRr6Jzw&s=09)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
